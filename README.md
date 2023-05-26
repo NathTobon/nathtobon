@@ -3,6 +3,7 @@
 I've just got my bagde for completing the Alura Challenge! You can check my repository here: https://github.com/NathTobon/encriptador-texto-alura
 
 Here's my badge!
+
 ![cms_files_10224_1671210503Prancheta_3](https://github.com/NathTobon/nathtobon/assets/129413960/ab48975b-138e-4440-a770-eacecbf9b647)
 
 <!--
